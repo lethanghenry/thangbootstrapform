@@ -1,0 +1,45 @@
+.form-control
+{
+    padding: 0px;
+    margin: 0px;
+    width: 1em;
+    height: 1.5em;
+}
+.form-group
+{
+    margin: 0px;
+    padding: 0px;
+}
+.form-inline
+{
+    padding: 0px;
+    margin: 0px;
+}
+.col-md-1.p-0
+{
+    margin: 0.5em;
+}
+.table thead{
+    background: cyan;
+}
+.btn-secondary
+{
+    background: #ebebeb;
+    color: black;
+}
+.form-row
+{
+    background: #ebebeb;
+}
+.card-body .form-inline
+{
+    margin: 2em;
+}.table-responsive
+{
+    max-height: 300px;
+}
+html, body{ height:100% } 
+
+body{
+  background: linear-gradient(rgb(11, 14, 231) 40%, transparent 40%) no-repeat;
+}
